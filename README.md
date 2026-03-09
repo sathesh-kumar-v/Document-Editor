@@ -1,6 +1,4 @@
 
-# BB\_Assessment2
-
 ## Document Manager + ONLYOFFICE Integration (MERN)
 
 A full-stack document management application built with the MERN stack, featuring robust authentication, role-based access control, versioned document uploads, and a deep, seamless integration with ONLYOFFICE Document Server for in-browser editing. Users can effortlessly upload, rename, replace, view, and edit documents. Changes made in the ONLYOFFICE editor are automatically saved back to the server, creating a new version of the document.
